@@ -4,7 +4,7 @@ description: 'a Decentralized, Multi-Chain Yield Optimizer'
 
 # Introduction to Sleep&Earn Finance
 
-*Don't like long texts? Skip to [Sleep&Earn Finance Infographics](infographics.md).*
+_Don't like long texts? Skip to_ [_Sleep&Earn Finance Infographics_](infographics.md)_._
 
 ## What is Sleep&Earn Finance?
 

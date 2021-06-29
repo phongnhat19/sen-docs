@@ -17,3 +17,4 @@ So it's time for the world to get Sleep&Earn.
 {% page-ref page="why-beefy-beats-your-bank.md" %}
 
 {% page-ref page="introducing-beefys-unique-revenue-share-model.md" %}
+
